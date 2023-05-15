@@ -1,0 +1,8 @@
+#ignore all bin
+*.bin
+
+#ignore target
+target
+
+#ignore all idea
+*.idea
